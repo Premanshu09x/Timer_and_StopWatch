@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Timer_and_StopWatch/static/css/main.bced7d75.css",
+    "main.js": "/Timer_and_StopWatch/static/js/main.04d67c9a.js",
+    "static/media/alert.mp3": "/Timer_and_StopWatch/static/media/alert.c0c7a9a1016c21a35972.mp3",
+    "index.html": "/Timer_and_StopWatch/index.html",
+    "main.bced7d75.css.map": "/Timer_and_StopWatch/static/css/main.bced7d75.css.map",
+    "main.04d67c9a.js.map": "/Timer_and_StopWatch/static/js/main.04d67c9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bced7d75.css",
+    "static/js/main.04d67c9a.js"
+  ]
+}
